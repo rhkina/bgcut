@@ -1,0 +1,18 @@
+.stButton > button {
+    color: #ffffff;
+    background-color: #c60c35;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+.stButton > button:hover {
+    color: #ffffff;
+    background-color: #ff0037;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
